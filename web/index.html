@@ -39,6 +39,8 @@
   <script>
     var serviceWorkerVersion = null;
     var scriptLoaded = false;
+    window.flutterWebRenderer = "html";
+
     function loadMainDartJs() {
       if (scriptLoaded) {
         return;

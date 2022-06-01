@@ -9,7 +9,7 @@ class Logo extends StatelessWidget {
       ),
       child: Column(
         children: [
-          Image.asset('images/connexion_logo.jpg'),
+          Image.asset('assets/images/connexion_logo.jpg'),
           const Text(
             'Find and Meet people around you to find LOVE',
             textAlign: TextAlign.center,
