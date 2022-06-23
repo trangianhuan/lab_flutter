@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "687786236451",
+    "project_id": "fir-karte-de067",
+    "storage_bucket": "fir-karte-de067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687786236451:android:7424c93a355b221721ef96",
+        "android_client_info": {
+          "package_name": "com.example.demo_karte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687786236451-t6g3kp4iuikv96bvfel1bhtssj5hrakj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo_karte",
+            "certificate_hash": "27fbe45cb7502c02ff89ec9b8d93b08a281d9e2b"
+          }
+        },
+        {
+          "client_id": "687786236451-bbt0ntvi47nprj4r5mjnai4cqks7nlmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBdfUOGvq43Z0dIiQoX99TBKfbmEP3XMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687786236451-bbt0ntvi47nprj4r5mjnai4cqks7nlmf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "687786236451-35p85bv7eqeh50eetp4lv70slce9g2hc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demoKarte"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687786236451:android:afea6a2cf1a9b6d921ef96",
+        "android_client_info": {
+          "package_name": "com.example.karte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687786236451-1naksu4autp0vtkkssbe0rt9kl3a28a5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karte",
+            "certificate_hash": "27fbe45cb7502c02ff89ec9b8d93b08a281d9e2b"
+          }
+        },
+        {
+          "client_id": "687786236451-bbt0ntvi47nprj4r5mjnai4cqks7nlmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBdfUOGvq43Z0dIiQoX99TBKfbmEP3XMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687786236451-bbt0ntvi47nprj4r5mjnai4cqks7nlmf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "687786236451-35p85bv7eqeh50eetp4lv70slce9g2hc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demoKarte"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687786236451:android:f7b90d22625b232221ef96",
+        "android_client_info": {
+          "package_name": "viva.food.merchant.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687786236451-bbt0ntvi47nprj4r5mjnai4cqks7nlmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBdfUOGvq43Z0dIiQoX99TBKfbmEP3XMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687786236451-bbt0ntvi47nprj4r5mjnai4cqks7nlmf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "687786236451-35p85bv7eqeh50eetp4lv70slce9g2hc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demoKarte"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
